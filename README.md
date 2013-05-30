@@ -16,3 +16,5 @@ We divide the Nei.ghbor.Net project into 4 categories:
 * Nei.ghbor.Net Apps - Demonstration applications powered by lightning
 
 The dream: Someone wants to be a part of the project. They install Ground, configure Keystone, intitialise lighting, and apply some apps. Then they point their neighbors to their new website.
+
+{{gist(https://gist.github.com/dcunited001/5626815)}}
