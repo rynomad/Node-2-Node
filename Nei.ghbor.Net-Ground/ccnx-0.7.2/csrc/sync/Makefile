@@ -1,1 +1,0 @@
-..//sync/../generic.mk
