@@ -1,1 +1,0 @@
-..//libexec/../generic.mk
